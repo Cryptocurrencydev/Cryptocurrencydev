@@ -23,7 +23,7 @@ all demos use fictional brands and data.
 
 scope in writing.  
 build with claude code and review every diff.  
-tests in ci on every change.  
+the bigger builds run their tests in ci, the table shows which.  
 deploy from git.
 
 ## stack
