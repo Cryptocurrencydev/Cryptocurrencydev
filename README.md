@@ -6,6 +6,7 @@ all demos use fictional brands and data.
 
 | demo | what it does | live | repo |
 |---|---|---|---|
+| tunesmith | kills background workers mid-job to prove paid jobs are never lost or charged twice | [live](https://job-reliability-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/job-reliability-demo) |
 | docketlight | texts property owners updates during their eviction cases | [live](https://eviction-updates-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/eviction-updates-demo) |
 | bidmarker | moves a bid research app off bubble and proves each customer only sees their own data | [live](https://bid-intel-migration-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/bid-intel-migration-demo) |
 | harbor & pine | ai worker that reads supplier invoices and writes checked orders | [live](https://invoice-order-worker-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/invoice-order-worker-demo) |
