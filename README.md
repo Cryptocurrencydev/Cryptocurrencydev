@@ -6,6 +6,7 @@ all demos use fictional brands and data.
 
 | demo | what it does | live | repo |
 |---|---|---|---|
+| lumen acupuncture | keeps gohighlevel in step with a clinic's ehr: right lead, right pipeline, no duplicates, no medical data | [live](https://ehr-ghl-sync-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/ehr-ghl-sync-demo) |
 | quorra insights | survey dashboard where ai explains the numbers and code checks every figure it writes | [live](https://grounded-analytics-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/grounded-analytics-demo) |
 | tunesmith | kills background workers mid-job to prove paid jobs are never lost or charged twice | [live](https://job-reliability-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/job-reliability-demo) |
 | docketlight | texts property owners updates during their eviction cases | [live](https://eviction-updates-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/eviction-updates-demo) |
