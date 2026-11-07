@@ -15,6 +15,7 @@ all demos use fictional brands and data.
 | inciva | beauty catalog where the database blocks bad edits and tracks every source | [live](https://catalog-integrity-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/catalog-integrity-demo) |
 | ramplight | marketplace where travelers with disabilities buy advice from local scouts | [live](https://scout-a11y-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/scout-a11y-demo) |
 | snakeyes | live video street dice for up to 8 players, refereed by the server | [live](https://dice-live-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/dice-live-demo) |
+| pawpoints | memberships and rewards for vet hospitals, with a safe import of existing stripe subscriptions | [live](https://vet-rewards-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/vet-rewards-demo) |
 | rules registry | sentence builder where the rules live in postgres, not the page | [live](https://rules-registry-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/rules-registry-demo) |
 | marlowe & finch | dry cleaner booking with courier pickup, payments and memberships | [live](https://garment-booking-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/garment-booking-demo) |
 | iriscale | measures face-to-phone distance on the device, then runs a near-vision check | [live](https://vision-distance-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/vision-distance-demo) |
