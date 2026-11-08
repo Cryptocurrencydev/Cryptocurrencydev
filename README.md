@@ -6,6 +6,7 @@ all demos use fictional brands and data.
 
 | demo | what it does | live | repo |
 |---|---|---|---|
+| harborline | white-label boat club platform: each club its own brand, fleet and rules, with a 272-cell test proving no club sees another's data | [live](https://boat-club-saas-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/boat-club-saas-demo) |
 | ledgerleaf | estate readiness questionnaire: branching and rules live in the database, with a report, pdf and a checked ai summary | [live](https://estate-readiness-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/estate-readiness-demo) |
 | lumen acupuncture | keeps gohighlevel in step with a clinic's ehr: right lead, right pipeline, no duplicates, no medical data | [live](https://ehr-ghl-sync-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/ehr-ghl-sync-demo) |
 | quorra insights | survey dashboard where ai explains the numbers and code checks every figure it writes | [live](https://grounded-analytics-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/grounded-analytics-demo) |
