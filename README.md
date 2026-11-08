@@ -6,6 +6,7 @@ all demos use fictional brands and data.
 
 | demo | what it does | live | repo |
 |---|---|---|---|
+| pinebrook studio | white-label ad builder for an agency's clients: locked template slots, 8 display and meta sizes from one design, website scan with checked ai copy, pay before download | [live](https://ad-studio-demo-pearl.vercel.app) | [repo](https://github.com/Cryptocurrencydev/ad-studio-demo) |
 | harborline | white-label boat club platform: each club its own brand, fleet and rules, with a 272-cell test proving no club sees another's data | [live](https://boat-club-saas-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/boat-club-saas-demo) |
 | ledgerleaf | estate readiness questionnaire: branching and rules live in the database, with a report, pdf and a checked ai summary | [live](https://estate-readiness-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/estate-readiness-demo) |
 | lumen acupuncture | keeps gohighlevel in step with a clinic's ehr: right lead, right pipeline, no duplicates, no medical data | [live](https://ehr-ghl-sync-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/ehr-ghl-sync-demo) |
