@@ -6,6 +6,7 @@ all demos use fictional brands and data.
 
 | demo | what it does | live | repo |
 |---|---|---|---|
+| cropwell | free on-device tool that crops one photo into every social size, plus the reusable launch kit behind it: email unlock, mac and windows installers, auto-update | [live](https://free-app-kit-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/free-app-kit-demo) |
 | pinebrook studio | white-label ad builder for an agency's clients: locked template slots, 8 display and meta sizes from one design, website scan with checked ai copy, pay before download | [live](https://ad-studio-demo-pearl.vercel.app) | [repo](https://github.com/Cryptocurrencydev/ad-studio-demo) |
 | harborline | white-label boat club platform: each club its own brand, fleet and rules, with a 272-cell test proving no club sees another's data | [live](https://boat-club-saas-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/boat-club-saas-demo) |
 | ledgerleaf | estate readiness questionnaire: branching and rules live in the database, with a report, pdf and a checked ai summary | [live](https://estate-readiness-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/estate-readiness-demo) |
