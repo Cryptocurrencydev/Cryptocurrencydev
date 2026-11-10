@@ -6,6 +6,7 @@ all demos use fictional brands and data.
 
 | demo | what it does | live | repo |
 |---|---|---|---|
+| ridgeway same day | courier quote analysis in plain php: resumable extraction from a transport exchange, cleaning and iqr filtering, approved datasets, markup into editable customer and internal price lists, pdfs | [live](https://courier-quote-tool.vercel.app) | [repo](https://github.com/Cryptocurrencydev/courier-quote-tool) |
 | kestrel coast homes | ai property videos from a real-estate crm: checked scripts in 4 languages, voiceover, captions and camera moves, real mp4s, measured cost per video | [live](https://listing-video-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/listing-video-demo) |
 | cropwell | free on-device tool that crops one photo into every social size, plus the reusable launch kit behind it: email unlock, mac and windows installers, auto-update | [live](https://free-app-kit-demo.vercel.app) | [repo](https://github.com/Cryptocurrencydev/free-app-kit-demo) |
 | pinebrook studio | white-label ad builder for an agency's clients: locked template slots, 8 display and meta sizes from one design, website scan with checked ai copy, pay before download | [live](https://ad-studio-demo-pearl.vercel.app) | [repo](https://github.com/Cryptocurrencydev/ad-studio-demo) |
