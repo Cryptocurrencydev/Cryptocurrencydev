@@ -59,6 +59,15 @@ every demo below is live and clickable. all use fictional brands and data. code 
       <sub>↗ <a href="https://estate-readiness-demo.vercel.app">estate-readiness-demo.vercel.app</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://book-reels-pipeline.vercel.app"><img src="assets/book-reels-pipeline.jpg" alt="Book Reels" width="100%"></a>
+      <br><b>Book Reels</b><br>
+      <sub>book chapter in, 9:16 animated short out: script, voice, frames, captions and QA, about $0.48 an episode</sub><br>
+      <sub>↗ <a href="https://book-reels-pipeline.vercel.app">book-reels-pipeline.vercel.app</a></sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ### saas & data
@@ -189,6 +198,15 @@ every demo below is live and clickable. all use fictional brands and data. code 
       <sub>one photo into every social size, on the device, on web, Mac and Windows</sub><br>
       <sub>↗ <a href="https://free-app-kit-demo.vercel.app">free-app-kit-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://two-device-video.vercel.app"><img src="assets/two-device-video.jpg" alt="Duet" width="100%"></a>
+      <br><b>Duet</b><br>
+      <sub>two-device video call on the Zoom Video SDK that works on desktop Chrome and iPhone Safari</sub><br>
+      <sub>↗ <a href="https://two-device-video.vercel.app">two-device-video.vercel.app</a></sub>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
