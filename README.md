@@ -66,7 +66,12 @@ every demo below is live and clickable. all use fictional brands and data. code 
       <sub>book chapter in, 9:16 animated short out: script, voice, frames, captions and QA, about $0.48 an episode</sub><br>
       <sub>↗ <a href="https://book-reels-pipeline.vercel.app">book-reels-pipeline.vercel.app</a></sub>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://solene-prompts-demo.vercel.app"><img src="assets/solene-prompts-demo.jpg" alt="Solene Prompts" width="100%"></a>
+      <br><b>Solene Prompts</b><br>
+      <sub>prompt enhancer inside Claude, ChatGPT and the browser: remote MCP server plus a Chrome extension</sub><br>
+      <sub>↗ <a href="https://solene-prompts-demo.vercel.app">solene-prompts-demo.vercel.app</a></sub>
+    </td>
   </tr>
 </table>
 
