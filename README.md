@@ -19,68 +19,73 @@ every demo below is live and clickable. all use fictional brands and data. code 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://confident-answers.vercel.app"><img src="assets/confident-answers.jpg" alt="Reko" width="100%"></a>
+      <br><b>Reko</b><br>
+      <sub>internal assistant that answers from company docs, knows when it is not sure and asks the right person</sub><br>
+      <sub>↗ <a href="https://confident-answers.vercel.app">confident-answers.vercel.app</a></sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://geo-exploration-agent.vercel.app"><img src="assets/geo-exploration-agent.jpg" alt="Lodestar Exploration" width="100%"></a>
       <br><b>Lodestar Exploration</b><br>
       <sub>aI exploration agent that ranks porphyry copper-gold targets on a map and cites every claim</sub><br>
       <sub>↗ <a href="https://geo-exploration-agent.vercel.app">geo-exploration-agent.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://lunero-ad-agent.vercel.app"><img src="assets/lunero-ad-agent.jpg" alt="Lunero Ad Agent" width="100%"></a>
       <br><b>Lunero Ad Agent</b><br>
       <sub>real product photos + a brief into on-brand Meta ads, with checks and approval</sub><br>
       <sub>↗ <a href="https://lunero-ad-agent.vercel.app">lunero-ad-agent.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://listing-video-demo.vercel.app"><img src="assets/listing-video-demo.jpg" alt="Kestrel Coast Homes" width="100%"></a>
       <br><b>Kestrel Coast Homes</b><br>
       <sub>one-click property videos in 4 languages, with the cost of every video measured</sub><br>
       <sub>↗ <a href="https://listing-video-demo.vercel.app">listing-video-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://invoice-order-worker-demo.vercel.app"><img src="assets/invoice-order-worker-demo.jpg" alt="Harbor & Pine" width="100%"></a>
       <br><b>Harbor & Pine</b><br>
       <sub>aI worker that turns supplier invoices into verified orders</sub><br>
       <sub>↗ <a href="https://invoice-order-worker-demo.vercel.app">invoice-order-worker-demo.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://grounded-analytics-demo.vercel.app"><img src="assets/grounded-analytics-demo.jpg" alt="Quorra Insights" width="100%"></a>
       <br><b>Quorra Insights</b><br>
       <sub>aI survey insights where every figure is checked against the data</sub><br>
       <sub>↗ <a href="https://grounded-analytics-demo.vercel.app">grounded-analytics-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://ad-studio-demo-pearl.vercel.app"><img src="assets/ad-studio-demo.jpg" alt="Pinebrook Studio" width="100%"></a>
       <br><b>Pinebrook Studio</b><br>
       <sub>white-label ad builder: locked templates, 8 sizes, AI copy, pay before download</sub><br>
       <sub>↗ <a href="https://ad-studio-demo-pearl.vercel.app">ad-studio-demo-pearl.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://estate-readiness-demo.vercel.app"><img src="assets/estate-readiness-demo.jpg" alt="Ledgerleaf" width="100%"></a>
       <br><b>Ledgerleaf</b><br>
       <sub>branching questionnaire with a scored report and checked AI summary</sub><br>
       <sub>↗ <a href="https://estate-readiness-demo.vercel.app">estate-readiness-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://book-reels-pipeline.vercel.app"><img src="assets/book-reels-pipeline.jpg" alt="Book Reels" width="100%"></a>
       <br><b>Book Reels</b><br>
       <sub>book chapter in, 9:16 animated short out: script, voice, frames, captions and QA, about $0.48 an episode</sub><br>
       <sub>↗ <a href="https://book-reels-pipeline.vercel.app">book-reels-pipeline.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://solene-prompts-demo.vercel.app"><img src="assets/solene-prompts-demo.jpg" alt="Solene Prompts" width="100%"></a>
       <br><b>Solene Prompts</b><br>
       <sub>prompt enhancer inside Claude, ChatGPT and the browser: remote MCP server plus a Chrome extension</sub><br>
       <sub>↗ <a href="https://solene-prompts-demo.vercel.app">solene-prompts-demo.vercel.app</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
