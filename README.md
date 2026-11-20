@@ -12,7 +12,7 @@ i scope the work, design how it fits together, and use ai tooling to ship it fas
 
 ## live demos
 
-every demo below is live and clickable. all use fictional brands and data. code walkthroughs on request.
+every demo below is live and clickable, except redline engine, a command-line tool with open code. all use fictional brands and data. code walkthroughs on request.
 
 ### ai & automation
 
@@ -108,7 +108,12 @@ every demo below is live and clickable. all use fictional brands and data. code 
       <sub>prompt enhancer inside Claude, ChatGPT and the browser: remote MCP server plus a Chrome extension</sub><br>
       <sub>↗ <a href="https://solene-prompts-demo.vercel.app">solene-prompts-demo.vercel.app</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cryptocurrencydev/redline-engine-poc"><img src="assets/redline-engine-poc.jpg" alt="Redline Engine" width="100%"></a>
+      <br><b>Redline Engine</b><br>
+      <sub>ai contract edits written back as real Word tracked changes and PDF markup, exact match or nothing</sub><br>
+      <sub>↗ <a href="https://github.com/Cryptocurrencydev/redline-engine-poc">open source: code + sample outputs</a></sub>
+    </td>
   </tr>
 </table>
 
