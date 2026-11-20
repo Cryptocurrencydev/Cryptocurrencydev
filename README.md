@@ -115,6 +115,15 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>↗ <a href="https://github.com/Cryptocurrencydev/redline-engine-poc">open source: code + sample outputs</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://continuity-triage-demo.vercel.app"><img src="assets/continuity-triage-demo.jpg" alt="Bayridge Family Medicine" width="100%"></a>
+      <br><b>Bayridge Family Medicine</b><br>
+      <sub>ai proposes green, yellow or red for patient check-ins with quoted evidence; a nurse reviews every one</sub><br>
+      <sub>↗ <a href="https://continuity-triage-demo.vercel.app">continuity-triage-demo.vercel.app</a></sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ### saas & data
