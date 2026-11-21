@@ -225,7 +225,12 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>courier quote analysis in PHP: clean data, approve it, turn it into price lists</sub><br>
       <sub>↗ <a href="https://courier-quote-tool.vercel.app">courier-quote-tool.vercel.app</a></sub>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://planetary-timing-demo.vercel.app"><img src="assets/planetary-timing-demo.jpg" alt="Hour & Cycle" width="100%"></a>
+      <br><b>Hour & Cycle</b><br>
+      <sub>planetary timing readings with free, one-time and membership tiers</sub><br>
+      <sub>↗ <a href="https://planetary-timing-demo.vercel.app">planetary-timing-demo.vercel.app</a></sub>
+    </td>
   </tr>
 </table>
 
