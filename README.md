@@ -122,7 +122,12 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>ai proposes green, yellow or red for patient check-ins with quoted evidence; a nurse reviews every one</sub><br>
       <sub>↗ <a href="https://continuity-triage-demo.vercel.app">continuity-triage-demo.vercel.app</a></sub>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://email-studio-demo.vercel.app"><img src="assets/email-studio-demo.jpg" alt="Email Studio" width="100%"></a>
+      <br><b>Email Studio</b><br>
+      <sub>paste a shopify store url and get fully designed, on-brand marketing emails you can edit by chat</sub><br>
+      <sub>↗ <a href="https://email-studio-demo.vercel.app">email-studio-demo.vercel.app</a></sub>
+    </td>
   </tr>
 </table>
 
