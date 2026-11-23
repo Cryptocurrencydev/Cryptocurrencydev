@@ -285,6 +285,20 @@ every demo below is live and clickable, except redline engine, a command-line to
   </tr>
 </table>
 
+### web3
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://fair-launch-devnet.vercel.app"><img src="assets/fair-launch-devnet.jpg" alt="Fairwind" width="100%"></a>
+      <br><b>Fairwind</b><br>
+      <sub>a solana token launch on meteora where every promise is checkable on-chain: revoked authorities, capped vesting creator share, liquidity locked forever</sub><br>
+      <sub>↗ <a href="https://fair-launch-devnet.vercel.app">fair-launch-devnet.vercel.app</a></sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
 ## stack
 
-<sub>typescript · javascript · python · react · next.js · node · react native · postgres · supabase · mysql · stripe · square · twilio · openai and anthropic apis · ffmpeg · livekit · three.js · solidity · vercel · hetzner · docker</sub>
+<sub>typescript · javascript · python · react · next.js · node · react native · postgres · supabase · mysql · stripe · square · twilio · openai and anthropic apis · ffmpeg · livekit · three.js · solidity · solana · vercel · hetzner · docker</sub>
