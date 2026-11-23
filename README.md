@@ -192,7 +192,12 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>sentence builder whose rules all live in Postgres</sub><br>
       <sub>↗ <a href="https://rules-registry-demo.vercel.app">rules-registry-demo.vercel.app</a></sub>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://fenwick-carbon-ledger.vercel.app"><img src="assets/carbon-ledger-demo.jpg" alt="Carbon Ledger" width="100%"></a>
+      <br><b>Carbon Ledger</b><br>
+      <sub>carbon accounts traced to each input row and gov.uk factor</sub><br>
+      <sub>↗ <a href="https://fenwick-carbon-ledger.vercel.app">fenwick-carbon-ledger.vercel.app</a></sub>
+    </td>
   </tr>
 </table>
 
