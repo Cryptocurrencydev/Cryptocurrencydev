@@ -211,7 +211,12 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>subscription billing on RevenueCat with a voice-minute ledger that can't be overspent</sub><br>
       <sub>↗ <a href="https://voice-credits-billing-demo.vercel.app">voice-credits-billing-demo.vercel.app</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://held-payout-marketplace-demo.vercel.app"><img src="assets/held-payout-marketplace-demo.jpg" alt="Ledgerhouse" width="100%"></a>
+      <br><b>Ledgerhouse</b><br>
+      <sub>collectors' marketplace that holds the buyer's money until the certificate arrives</sub><br>
+      <sub>↗ <a href="https://held-payout-marketplace-demo.vercel.app">held-payout-marketplace-demo.vercel.app</a></sub>
+    </td>
   </tr>
 </table>
 
