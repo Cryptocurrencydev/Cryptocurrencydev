@@ -12,7 +12,7 @@ i scope the work, design how it fits together, and use ai tooling to ship it fas
 
 ## live demos
 
-every demo below is live and clickable, except redline engine, a command-line tool with open code. all use fictional brands and data. code walkthroughs on request.
+every demo below is live and clickable, except redline engine, a command-line tool with open code, and agent command center, shown in a walkthrough video. all use fictional brands and data. code walkthroughs on request.
 
 ### ai & automation
 
@@ -136,7 +136,12 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>paste a shopify store url and get fully designed, on-brand marketing emails you can edit by chat</sub><br>
       <sub>↗ <a href="https://email-studio-demo.vercel.app">email-studio-demo.vercel.app</a></sub>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Cryptocurrencydev/Cryptocurrencydev/blob/main/assets/agent-command-center-demo.mp4"><img src="assets/agent-command-center-demo.jpg" alt="Agent Command Center" width="100%"></a>
+      <br><b>Agent Command Center</b><br>
+      <sub>a supervisor ai delegates to security, finance and personal agents; risky actions wait for a click or a spoken approval code</sub><br>
+      <sub>↗ <a href="https://github.com/Cryptocurrencydev/Cryptocurrencydev/blob/main/assets/agent-command-center-demo.mp4">2 min walkthrough video</a></sub>
+    </td>
   </tr>
 </table>
 
