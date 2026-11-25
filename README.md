@@ -19,129 +19,138 @@ every demo below is live and clickable, except redline engine, a command-line to
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://audio-watermark-export-demo.vercel.app"><img src="assets/audio-watermark-export-demo.jpg" alt="Vocalis" width="100%"></a>
+      <br><b>Vocalis</b><br>
+      <sub>every ai voice export watermarked, traced back to its exact clip and checked against its license, with a 25-attack benchmark of what survives</sub><br>
+      <sub>↗ <a href="https://audio-watermark-export-demo.vercel.app">audio-watermark-export-demo.vercel.app</a></sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://highlight-cut-demo.vercel.app"><img src="assets/highlight-cut-demo.jpg" alt="Northgate Media" width="100%"></a>
       <br><b>Northgate Media</b><br>
       <sub>raw property b-roll in, an editable final cut pro project out: qa-scored, cut to the beat, with keyframed speed ramps</sub><br>
       <sub>↗ <a href="https://highlight-cut-demo.vercel.app">highlight-cut-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://life-story-interviewer.vercel.app"><img src="assets/life-story-interviewer.jpg" alt="Fernleigh Stories" width="100%"></a>
       <br><b>Fernleigh Stories</b><br>
       <sub>a patient ai interviewer that records an older person's life story and remembers it next time</sub><br>
       <sub>↗ <a href="https://life-story-interviewer.vercel.app">life-story-interviewer.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://contractor-daily-brief.vercel.app"><img src="assets/contractor-daily-brief.jpg" alt="Gulfline Impact Windows" width="100%"></a>
       <br><b>Gulfline Impact Windows</b><br>
       <sub>an owner's morning brief emailed daily from Housecall Pro, QuickBooks and CompanyCam via n8n</sub><br>
       <sub>↗ <a href="https://contractor-daily-brief.vercel.app">contractor-daily-brief.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://restaurant-reviews-pulse.vercel.app"><img src="assets/restaurant-reviews-pulse.jpg" alt="Reviews Pulse" width="100%"></a>
       <br><b>Reviews Pulse</b><br>
       <sub>google reviews for five restaurants, collected daily and turned into what the owner should act on</sub><br>
       <sub>↗ <a href="https://restaurant-reviews-pulse.vercel.app">restaurant-reviews-pulse.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://confident-answers.vercel.app"><img src="assets/confident-answers.jpg" alt="Reko" width="100%"></a>
       <br><b>Reko</b><br>
       <sub>internal assistant that answers from company docs, knows when it is not sure and asks the right person</sub><br>
       <sub>↗ <a href="https://confident-answers.vercel.app">confident-answers.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://geo-exploration-agent.vercel.app"><img src="assets/geo-exploration-agent.jpg" alt="Lodestar Exploration" width="100%"></a>
       <br><b>Lodestar Exploration</b><br>
       <sub>aI exploration agent that ranks porphyry copper-gold targets on a map and cites every claim</sub><br>
       <sub>↗ <a href="https://geo-exploration-agent.vercel.app">geo-exploration-agent.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://lunero-ad-agent.vercel.app"><img src="assets/lunero-ad-agent.jpg" alt="Lunero Ad Agent" width="100%"></a>
       <br><b>Lunero Ad Agent</b><br>
       <sub>real product photos + a brief into on-brand Meta ads, with checks and approval</sub><br>
       <sub>↗ <a href="https://lunero-ad-agent.vercel.app">lunero-ad-agent.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://listing-video-demo.vercel.app"><img src="assets/listing-video-demo.jpg" alt="Kestrel Coast Homes" width="100%"></a>
       <br><b>Kestrel Coast Homes</b><br>
       <sub>one-click property videos in 4 languages, with the cost of every video measured</sub><br>
       <sub>↗ <a href="https://listing-video-demo.vercel.app">listing-video-demo.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://invoice-order-worker-demo.vercel.app"><img src="assets/invoice-order-worker-demo.jpg" alt="Harbor & Pine" width="100%"></a>
       <br><b>Harbor & Pine</b><br>
       <sub>aI worker that turns supplier invoices into verified orders</sub><br>
       <sub>↗ <a href="https://invoice-order-worker-demo.vercel.app">invoice-order-worker-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://grounded-analytics-demo.vercel.app"><img src="assets/grounded-analytics-demo.jpg" alt="Quorra Insights" width="100%"></a>
       <br><b>Quorra Insights</b><br>
       <sub>aI survey insights where every figure is checked against the data</sub><br>
       <sub>↗ <a href="https://grounded-analytics-demo.vercel.app">grounded-analytics-demo.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://ad-studio-demo-pearl.vercel.app"><img src="assets/ad-studio-demo.jpg" alt="Pinebrook Studio" width="100%"></a>
       <br><b>Pinebrook Studio</b><br>
       <sub>white-label ad builder: locked templates, 8 sizes, AI copy, pay before download</sub><br>
       <sub>↗ <a href="https://ad-studio-demo-pearl.vercel.app">ad-studio-demo-pearl.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://estate-readiness-demo.vercel.app"><img src="assets/estate-readiness-demo.jpg" alt="Ledgerleaf" width="100%"></a>
       <br><b>Ledgerleaf</b><br>
       <sub>branching questionnaire with a scored report and checked AI summary</sub><br>
       <sub>↗ <a href="https://estate-readiness-demo.vercel.app">estate-readiness-demo.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://book-reels-pipeline.vercel.app"><img src="assets/book-reels-pipeline.jpg" alt="Book Reels" width="100%"></a>
       <br><b>Book Reels</b><br>
       <sub>book chapter in, 9:16 animated short out: script, voice, frames, captions and QA, about $0.48 an episode</sub><br>
       <sub>↗ <a href="https://book-reels-pipeline.vercel.app">book-reels-pipeline.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://solene-prompts-demo.vercel.app"><img src="assets/solene-prompts-demo.jpg" alt="Solene Prompts" width="100%"></a>
       <br><b>Solene Prompts</b><br>
       <sub>prompt enhancer inside Claude, ChatGPT and the browser: remote MCP server plus a Chrome extension</sub><br>
       <sub>↗ <a href="https://solene-prompts-demo.vercel.app">solene-prompts-demo.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Cryptocurrencydev/redline-engine-poc"><img src="assets/redline-engine-poc.jpg" alt="Redline Engine" width="100%"></a>
       <br><b>Redline Engine</b><br>
       <sub>ai contract edits written back as real Word tracked changes and PDF markup, exact match or nothing</sub><br>
       <sub>↗ <a href="https://github.com/Cryptocurrencydev/redline-engine-poc">open source: code + sample outputs</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://continuity-triage-demo.vercel.app"><img src="assets/continuity-triage-demo.jpg" alt="Bayridge Family Medicine" width="100%"></a>
       <br><b>Bayridge Family Medicine</b><br>
       <sub>ai proposes green, yellow or red for patient check-ins with quoted evidence; a nurse reviews every one</sub><br>
       <sub>↗ <a href="https://continuity-triage-demo.vercel.app">continuity-triage-demo.vercel.app</a></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://email-studio-demo.vercel.app"><img src="assets/email-studio-demo.jpg" alt="Email Studio" width="100%"></a>
       <br><b>Email Studio</b><br>
       <sub>paste a shopify store url and get fully designed, on-brand marketing emails you can edit by chat</sub><br>
       <sub>↗ <a href="https://email-studio-demo.vercel.app">email-studio-demo.vercel.app</a></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Cryptocurrencydev/Cryptocurrencydev/blob/main/assets/agent-command-center-demo.mp4"><img src="assets/agent-command-center-demo.jpg" alt="Agent Command Center" width="100%"></a>
       <br><b>Agent Command Center</b><br>
       <sub>a supervisor ai delegates to security, finance and personal agents; risky actions wait for a click or a spoken approval code</sub><br>
       <sub>↗ <a href="https://github.com/Cryptocurrencydev/Cryptocurrencydev/blob/main/assets/agent-command-center-demo.mp4">2 min walkthrough video</a></sub>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
