@@ -204,6 +204,15 @@ every demo below is live and clickable, except redline engine, a command-line to
       <sub>↗ <a href="https://fenwick-carbon-ledger.vercel.app">fenwick-carbon-ledger.vercel.app</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://voice-credits-billing-demo.vercel.app"><img src="assets/voice-credits-billing-demo.jpg" alt="Lampstand" width="100%"></a>
+      <br><b>Lampstand</b><br>
+      <sub>subscription billing on RevenueCat with a voice-minute ledger that can't be overspent</sub><br>
+      <sub>↗ <a href="https://voice-credits-billing-demo.vercel.app">voice-credits-billing-demo.vercel.app</a></sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### commerce & bookings
